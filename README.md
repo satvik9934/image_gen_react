@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App]https://image-gen-react1.netlify.app/?.
+This project was bootstrapped with [Create React App]https://image-gen-react1.netlify.app/
 
 # Hosted-Link:
-https://api-image-generator-react.netlify.app/
+https://image-gen-react1.netlify.app/
 
 ## Available Scripts
 
